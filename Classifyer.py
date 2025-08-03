@@ -1,4 +1,4 @@
-# ไฟล์รันหลัก
+# ไฟล์รันหลักจากเทรนโมเดลแล้ว
 import cv2
 import mediapipe as mp
 import numpy as np
